@@ -1,2 +1,19 @@
 Selimhan Tokat- 22003145 - https://github.com/SlmTKT
 My favorite game is God of War 3.
+
+PS C:\Users\sezai\Desktop\lol\CS-101\projects\RE_CS-102\GITHUB_TRY\CS-102-Github-Tutorial> git log
+commit a4e1e91fe235133a5e5846cd06795dd5e00e21ba (HEAD -> main, origin/main, origin/HEAD)
+Merge: e22e4d2 04ba798
+Author: SlmTKT <69625899+SlmTKT@users.noreply.github.com>
+Date:   Wed Sep 29 15:47:59 2021 +0300
+
+    Merge pull request #1 from SlmTKT/new_information
+    
+    Selimhan updated info.txt
+
+commit 04ba798d176692c89fc80c2d26afd5334fe27435 (origin/new_information, new_information)
+Author: Selimhan Tokat <selimhantokat16@gmail.com>
+Date:   Wed Sep 29 15:42:21 2021 +0300
+
+    Selimhan updated info.txt
+:
