@@ -2,4 +2,4 @@
 
 ## My first try
 
-*Selimhan Tokat - 22003145 ""
+* Selimhan Tokat - 22003145 ""
